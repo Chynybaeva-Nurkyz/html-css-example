@@ -4,6 +4,9 @@
     border: 1px solid blue;
 
 }
+.button .small{
+    background-color: red;
+}
 .ok{
     background-color: hsl(100, 100%, 50%);
 }
