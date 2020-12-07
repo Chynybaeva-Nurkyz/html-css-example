@@ -2,4 +2,11 @@
 
 .button{
     border: 1px solid blue;
+
+}
+.ok{
+    background-color: hsl(100, 100%, 50%);
+}
+.not{
+    background-color: hsl(100, 100%, 50%);
 }
