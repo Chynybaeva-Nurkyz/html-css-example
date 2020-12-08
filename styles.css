@@ -1,4 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+  :root {
+      --hue-default:211;
+      --hue-ok:111;
+      --hue-notok:11;
+  }
+  hsl(var(--hue-default), ...);
+  hsl(var(--hue-ok), ...);
+  hsl(var(--hue-notok), ...);
 
 .button{
     border: 1px solid blue;
